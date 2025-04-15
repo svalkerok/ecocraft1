@@ -1,0 +1,18 @@
+{
+  "home": {
+    "heroTitle": "Creating Beauty with Care for Nature",
+    "heroSubtitle": "Eco-friendly handmade products that inspire",
+    "whyEcoCraftTitle": "Why EcoCraft?",
+    "whyEcoCraftText": "We combine unique design, natural materials, and craftsmanship to create things that do not harm nature."
+  },
+  "about": {
+    "introTitle": "About EcoCraft",
+    "introText": "EcoCraft is a community of artisans who believe in the power of nature and handcrafting. Founded in 2020.",
+    "missionTitle": "Our Mission",
+    "missionText": "To combine the beauty of handmade items with care for the environment."
+  },
+  "contacts": {
+    "introTitle": "Contact Us",
+    "introText": "Have questions or want to order a unique item? Write to us!"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Vase \"Forest\"",
+    "category": "Decor",
+    "description": "Handcrafted from recycled oak.",
+    "image": "/img/portfolio-vase.png"
+  },
+  {
+    "id": 2,
+    "name": "Bag \"Eco-Chic\"",
+    "category": "Accessories",
+    "description": "Woven bag made from organic cotton.",
+    "image": "/img/portfolio-bag.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Necklace \"Nature\"",
+    "category": "Jewelry",
+    "description": "Made from recycled glass.",
+    "image": "/img/portfolio-necklace.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Notebook \"Green\"",
+    "category": "Accessories",
+    "description": "Cover made from recycled paper.",
+    "image": "/img/portfolio-notebook.png"
+  },
+  {
+    "id": 5,
+    "name": "Nature",
+    "category": "Photo",
+    "description": "Just a photo of nature",
+    "image": "/uploads/portfolio-1744719983964.jpg"
+  }
+]
