@@ -1,3 +1,4 @@
+import { FormEvent } from 'react';
 import { useState } from 'react';
 
 export default function AddPortfolio() {
@@ -6,7 +7,7 @@ export default function AddPortfolio() {
   const [description, setDescription] = useState('');
   const [image, setImage] = useState('');
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
     await fetch('/api/portfolio', {
       method: 'POST',
